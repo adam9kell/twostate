@@ -14,11 +14,13 @@ https://doi.org/10.6071/M32Q0X
 original source licensed under cc by 4.0
 
 # versions
-version 2: vectorization of most for loops  
-           replace functions (e.g., fact() with numpy.fact())  
-           move 'dukomp', 'simpov', and 'kompov' into main text
+version 2  
+vectorization of most for loops  
+replace functions (e.g., fact() with numpy.fact())  
+move 'dukomp', 'simpov', and 'kompov' into main text
 	   
-version 1: direct conversion of fortran source to python script with minimal changes
+version 1  
+direct conversion of fortran source to python script with minimal changes
 
 # original twostate readme
 Notes on running program TWOSTATE to calculate absorption spectra and resonance Raman excitation profiles
